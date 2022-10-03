@@ -1,8 +1,8 @@
 # A Simple Calculator - GUI Implemented
 # Author: Le Duy An Tran
-# About:
 ![image](https://user-images.githubusercontent.com/114903308/193627436-b74f94c6-a17d-4327-a1c5-e86ca270fa94.png)
-This is my project for Java GUI application practices during my second year in college with the purpose of learning application designs and improving my programming skills and habits.
+# About:
+ This is my project for Java GUI application practices during my second year in college with the purpose of learning application designs and improving my programming skills and habits.
 # Inspiration:
 Windows built-in calculator has been a useful and is a need for quick math performance that the Windows users can easily access without installing or searching for a third party. Such a simple but powerful software has solved and improved a lot in Windows user experience, and in a familiar design that any age can understand amd use in their daily lives. 
 # Softwares:
